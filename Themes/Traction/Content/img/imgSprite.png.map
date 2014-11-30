@@ -1,0 +1,88 @@
+{
+  "images": [
+    {
+      "name": "/Themes/Traction/Content/img/arrow-right.png",
+      "width": 7,
+      "height": 14,
+      "offsetX": 0,
+      "offsetY": 0
+    },
+    {
+      "name": "/Themes/Traction/Content/img/compare-button.png",
+      "width": 20,
+      "height": 20,
+      "offsetX": 0,
+      "offsetY": 14
+    },
+    {
+      "name": "/Themes/Traction/Content/img/footer-icon-1.png",
+      "width": 20,
+      "height": 20,
+      "offsetX": 0,
+      "offsetY": 34
+    },
+    {
+      "name": "/Themes/Traction/Content/img/footer-icon-2.png",
+      "width": 20,
+      "height": 20,
+      "offsetX": 0,
+      "offsetY": 54
+    },
+    {
+      "name": "/Themes/Traction/Content/img/footer-icon-4.png",
+      "width": 20,
+      "height": 20,
+      "offsetX": 0,
+      "offsetY": 74
+    },
+    {
+      "name": "/Themes/Traction/Content/img/header-link-1.png",
+      "width": 20,
+      "height": 20,
+      "offsetX": 0,
+      "offsetY": 94
+    },
+    {
+      "name": "/Themes/Traction/Content/img/header-link-2.png",
+      "width": 20,
+      "height": 20,
+      "offsetX": 0,
+      "offsetY": 114
+    },
+    {
+      "name": "/Themes/Traction/Content/img/header-link-4.png",
+      "width": 23,
+      "height": 22,
+      "offsetX": 0,
+      "offsetY": 134
+    },
+    {
+      "name": "/Themes/Traction/Content/img/header-link-5.png",
+      "width": 26,
+      "height": 22,
+      "offsetX": 0,
+      "offsetY": 156
+    },
+    {
+      "name": "/Themes/Traction/Content/img/rating1.png",
+      "width": 26,
+      "height": 23,
+      "offsetX": 0,
+      "offsetY": 178
+    },
+    {
+      "name": "/Themes/Traction/Content/img/rating2.png",
+      "width": 26,
+      "height": 23,
+      "offsetX": 0,
+      "offsetY": 201
+    },
+    {
+      "name": "/Themes/Traction/Content/img/search-button.png",
+      "width": 14,
+      "height": 14,
+      "offsetX": 0,
+      "offsetY": 224
+    }
+  ]
+}
