@@ -1,0 +1,146 @@
+1198 Buick Century, Regal Aluminum Alloy Wheel, Rim 14x6 80-83 25501268
+1322 Buick Skyhawk Aluminum Alloy Wheel, Rim 13x5.5 82-89 25519074
+1339 Buick Century Aluminum Alloy Wheel, Rim 14x5.5 83-88 25512706
+1385 Buick Century T-Type Regal Aluminum Alloy Wheel, Rim 14x6.5 84-89
+1386 Buick Regal Aluminum Alloy Wheel, Rim 15x7 84-85 25518851   
+1405 Buick Electra Aluminum Alloy Wheel, Rim 14x6 85-88 25527407
+1408 Oldsmobile Custom Cruiser, 98 Aluminum Alloy Wheel, Rim 14x6 85-87 22531786 
+1428 Buick Electra LeSabre Riviera Aluminum Alloy Wheel, Rim 15x6 85-87 25523485
+1441 Buick Skylark Somerset Aluminum Alloy Wheel, Rim 13x5.5 86-87 22540229
+1442 Buick Regal Aluminum Alloy Wheel, Rim 14x6 85-87 25523225
+1450 Buick Skyhawk Aluminum Alloy Wheel, Rim 14x6 84-86 25524975
+1481 Buick Century, Lesabre Steel Wheel, Rim 14x6 86-89 25532912
+1482 Buick Century Aluminum Alloy Wheel, Rim 15x6.5  1986 25527526  
+1487 Buick Riviera Aluminum Alloy Wheel, Rim 14x5.5 86-88 3634686
+1488 Buick Riviera Aluminum Alloy Wheel, Rim 15x6 86-88 25524682
+1489 Oldsmobile Custom Cruiser, 98, Delta 88, Toronado Aluminum Alloy Wheel, Rim 15x6 86-89 3634734
+1491 Buick Skylark Skyhawk Somerset Aluminum Alloy Wheel, Rim 14x6 85-90 12339985
+1492 Buick Skylark Somerset Aluminum Alloy Wheel, Rim 14x6 86-87 25524684
+1500 Buick Regal Aluminum Alloy Wheel, Rim 15x7 86-87 25527408  
+1540 Buick LeSabre, Reatta Aluminum Alloy Wheel, Rim 15x6 87-90 12334844
+1639 Buick Regal Aluminum Alloy Wheel, Rim 14x5.5 88-93 10089700
+1641 Buick Regal Aluminum Alloy Wheel, Rim 15x6 88-91 10104405
+1643 Buick Skylark Aluminum Alloy Wheel, Rim 14x6 88-91 22548177 
+1645 Buick Electra Aluminum Alloy Wheel, Rim 15x6 89-90 12334840
+1650 Buick Century Aluminum Alloy Wheel, Rim 14x5.5 1989 10121071 
+1651 Buick Century Aluminum Alloy Wheel, Rim 14x5.5 89-96 10148012
+1648 Buick Riviera Aluminum Alloy Wheel, Rim 15x6 89-93 3635378
+4004 Buick Reatta Riviera Aluminum Alloy Wheel, Rim 16x7 90-93 3634823  
+4009 Buick LeSabre Park Avenue Aluminum Alloy Wheel, Rim 16x6.5 92-99 12365449
+4011 Buick Terraza Aluminum Alloy Wheel, Rim 17x6.5 06-07 88967363
+4013 Buick Lucerne Aluminum Alloy Wheel, Rim 16x7 06-08 88967383
+4014 Buick Regal Aluminum Alloy Wheel, Rim 16x6.5 95-96 12512862 
+4015 Buick Riviera Aluminum Alloy Wheel, Rim 16x6.5 95-97 12363784 12536285
+4016 Buick Riviera Aluminum Alloy Wheel, Rim 16x7 95-99 12536284
+4017 Buick Skylark Aluminum Alloy Wheel, Rim 14x6 94-98 22591050
+4018 Buick Lucerne Aluminum Alloy Wheel, Rim 17x7 06-10 9595287
+4018 Buick Park Avenue Aluminum Alloy Wheel, Rim 17x7 1997 9595287
+4019 Buick Regal Aluminum Alloy Wheel Chrome, Rim 16x6.5 95-98 12512862 
+4020 Buick LeSabre Park Avenue Riviera Aluminum Alloy Wheel, Rim 16x6.5 95-02 12365457
+4021 Buick Skylark Aluminum Alloy Wheel, Rim 16x6 96-98 12362225 
+4023 Buick Park Avenue Aluminum Alloy Wheel, Rim 16x6.5 97-99 9592339
+4024 Buick Park Avenue Aluminum Alloy Wheel, Rim 16x6.5 97-99 12365438
+4025 Buick Lucerne Park Avenue Aluminum Alloy Wheel, Rim 16x7 06-08 9595944
+4027 Buick Century Regal Aluminum Alloy Wheel, Rim 15x6 97-02 12365480
+4028 Buick Lucerne Aluminum Alloy Wheel Painted, Rim 18x7.5 2006 88967202 
+4028 Buick Lucerne Aluminum Alloy Wheel Chrome, Rim 18x7.5 2006 88967202 
+4030 Buick Regal Aluminum Alloy Wheel, Rim 16x6.5 97-00 12362297
+4031 Buick Regal Aluminum Alloy Wheel Chrome, Rim 16x6.5 97-03 12362298
+4032 Buick Regal Aluminum Alloy Wheel, Rim 15x6 99-04 9593694
+4033 Buick LeSabre Aluminum Alloy Wheel, Rim 15x6 00-02 9592952
+4034 Buick Lesabre Aluminum Alloy Wheel, Rim 16x6.5 00-04 09594027
+4036 Park Avenue Aluminum Alloy Wheel Chrome, Rim 16x6.5 00-04 9593516
+4037 Park Avenue Aluminum Alloy Wheel Painted, Rim 16x6.5 00-02 9593516
+4043 Buick LeSabre Aluminum Alloy Wheel, Rim 15x6 02-05 88892459
+4044 Buick Rendezvous Aluminum Alloy Wheel, Rim 16x6.5 02-07 9593775
+4045 Buick Rendezvous Chrome Aluminum Alloy Wheel, Rim 16x6.5 02-04 12490109
+4046 Buick Park Avenue Aluminum Alloy Wheel, Rim 17x7.5 03-05 9594953 
+4047 Buick LeSabre Aluminum Alloy Wheel, Rim 16x6.5 03-04 88952521   
+4048 Buick LeSabre Aluminum Alloy Wheel, Rim 16x6.5 03-05 88952520
+4049 Buick Rendezvous Aluminum Alloy Wheel, Rim 17x6.5 04-07 88957157
+4050 Buick Park Avenue Aluminum Alloy Wheel, Rim 16x6.5 04-05 09595359
+4051 Buick Park Avenue Aluminum Alloy Wheel, Rim 16x6.5 04-05 09595699   
+4052 Buick Rainier Aluminum Alloy Wheel, Rim 17x7 04-07 9595113
+4054 Buick LeSabre Aluminum Alloy Wheel, Rim 16x7 2005 89047807  
+4056 Buick Allure LaCrosse Brushed Aluminum Alloy Wheel, Rim 16x6.5 05-09 88964154
+4057 (See 4066) Buick Allure, Lacrosse Aluminum Alloy Wheel, Rim 17x6.5 05-08 88964114
+4058 (See 4066)
+4059 Buick Park Avenue Aluminum Alloy Wheel, Rim 17x7.5 2005 9596103
+4566 Cadillac CTS Aluminum Alloy Wheel, Rim 17x7.5 2003 9594568 
+4060 Buick Terraza Aluminum Alloy Wheel, Rim 17x6.5 20056 89060347 
+4061 Buick LaCrosse TerrazaAluminum Alloy Wheel, Rim 17x6.5 05-07 89060348
+4062 Buick Rendezvous Aluminum Alloy Wheel, Rim 17x6.5 05-07 89060312  
+4063 Buick Rendezvous Aluminum Alloy Wheel, Rim 17x6.5 05-07 89060313
+4064 Buick Rendezvous Aluminum Alloy Wheel, Rim 17x6.5 05-07 89060314  
+4066 Buick Allure, Lacrosse Aluminum Alloy Wheel, Rim 17x6.5 05-08 88964114
+4067 Buick Allure, Lacrosse Aluminum Chrome Alloy Wheel, Rim 17x6.5 05-09 9596398
+4067 Buick Allure LaCrosse Aluminum Alloy Wheel, Rim 17x6.5 05-09 88964115
+4069 Buick Allure LaCrosse Aluminum Alloy Wheel, Rim 17x6.5 07-09 19153398 
+4070 Buick Allure LaCrosse Terraza Aluminum Alloy Wheel, Rim 17x6.5 05-09 9597326
+4071 Buick Allure LaCrosse Aluminum Alloy Wheel, Rim 17x6.5 07-08 19153398   
+4074 Buick Lucerne Aluminum Alloy Wheel, Rim 18x7.5 06-11 17800381
+4075 Cadillac DTS Aluminum Alloy Wheel, Rim 18x7.5 06-11 17802480
+4076 Buick Enclave Aluminum Alloy Wheel Chrome, Rim 18x7.5 08-09 19167191 
+4078 Buick Enclave Aluminum Alloy Wheel, Rim 19x7.5 08-10 19167190
+4079 Buick Enclave Aluminum Alloy Wheel, Rim 19x7.5 08-12 19167189
+4082 Buick Lucerne Wheel 08-11 9597274 
+4084 Buick Allure, LaCrosse Aluminum Alloy Wheel, Rim 18x7 08-09 9597171  
+4087 Buick Enclave Aluminum Alloy Wheel, Rim 20x7.5 08-13 17802981
+4088 Buick Enclave Aluminum Alloy Wheel, Rim 20x7.5 08-09 17802987
+4088 Chevrolet Traverse Aluminum Alloy Wheel, Rim 20x7.5 08-09 17802987 19132661
+4088 GMC Acadia Aluminum Alloy Wheel, Rim 20x7.5 08-09 17802987 19132661
+4088 Saturn Outlook Aluminum Alloy Wheel, Rim 20x7.5 08-09 17802987 19132661   
+4094 Buick Allure LaCrosse Regal Aluminum Alloy Wheel, Rim 17x7 10-12 9598008
+4095 Buick Allure, LaCrosse, Regal Wheel Chrome 18x8 10-14 9598531 
+4096 Buick Allure LaCrosse Regal Aluminum Alloy Wheel, Rim 18x8 10-12 9597390
+4097 Buick LaCrosse, Regal Aluminum Alloy Wheel, Rim 19x8.5 10-13 9598682   
+4099 Buick Terraza Aluminum Alloy Wheel, Rim 17x6.5 2007 9595995
+4100 Buick Regal Aluminum Alloy Wheel, Rim 18x8 11-13 9598127
+4103 Buick LaCrosse, Regal Aluminum Alloy Wheel, Rim 19x8.5 10-13 19212948 
+4104 Buick Lucerne Aluminum Alloy Wheel, Rim 18x7.5 06-11 9595282 
+4105(See 5432) Buick Enclave Aluminum Alloy Wheel, Rim 20x7.5 10-12 9596964
+4106 Buick LaCrosse, Regal Aluminum Alloy Wheel, Rim 17x7 12-13 9597398
+4107 Buick Regal Aluminum Alloy Wheel, Rim 17x7 2012 13235010    
+4108 Buick Regal Aluminum Alloy Wheel, Rim 19x8.5 12-13 13258241
+4109 Buick Regal Aluminum Alloy Wheel, Rim 20x8.5 12-13 22792222
+4110 Buick Verano Aluminum Alloy Wheel, Rim 17x7 12-13 22758350
+4111 Buick Verano Aluminum Alloy Wheel, Rim 18x8 12-13 22758351
+4112 Buick Verano Aluminum Alloy Wheel, Rim 18x8 12-13 22791064 
+4129 Buick Encore Aluminum Alloy Wheel, Rim 18x7 2013 9514462
+4130 Buick Encore Aluminum Alloy Wheel, Rim 18x7 2013 95144161 
+4131 Buick Enclave Aluminum Alloy Wheel, Rim 19x7.5 13-14 22974278 
+4132 Buick Enclave Aluminum Alloy Wheel, Rim 20x7.5 2013 20997876 
+5267 Buick Allure, LaCrosse Aluminum Alloy Wheel, Rim 17x6.5 05-09 17801463 
+5267 Pontiac Grand Prix Aluminum Alloy Wheel, Rim 17x6.5 05-08 17801463 
+5286 Buick Enclave Aluminum Alloy Wheel, Rim 19x7.5 08-13 17802019
+5286 Chevrolet Traverse Aluminum Alloy Wheel, Rim 19x7.5 08-13 17802019
+5286 GMC Acadia Aluminum Alloy Wheel, Rim 19x7.5 08-13 17802019
+5312 Buick Rainier Aluminum Alloy Wheel, Rim 17x7 05-07 17800610
+5312 Chevrolet Trailblazer Aluminum Alloy Wheel, Rim 17x7 05-08 17800610
+5312 GMC Envoy Aluminum Alloy Wheel, Rim 17x7 04-07 17800610   
+5314 Buick Rainier Aluminum Alloy Wheel, Rim 17x7 04-07 17800609
+5315 Buick Rainier Aluminum Alloy Wheel, Rim 18x8 04-07 17800355
+5315 Chevrolet Trailblazer Aluminum Alloy Wheel, Rim 18x8 04-07 17800355
+5315 GMC Envoy Aluminum Alloy Wheel, Rim 18x8 04-07 17800355
+5316 Buick Rainier Aluminum Alloy Wheel, Rim 18x8 04-07 17800189
+5316 Chevrolet Trailblazer Aluminum Alloy Wheel, Rim 18x8 04-08 17800189 
+5316 GMC Envoy Aluminum Alloy Wheel, Rim 18x8 04-08 17800189   
+5317 Buick Rainier Aluminum Alloy Wheel, Rim 18x8 04-07 17800183
+5317 GMC Envoy Aluminum Alloy Wheel, Rim 18x8 04-08 17800183
+5317 Chevrolet Trailblazer Aluminum Alloy Wheel, Rim 18x8 04-08 17800183
+5318 Buick Rainier Aluminum Alloy Wheel, Rim 18x8 04-08 17800329
+5318 Chevrolet Trailblazer Aluminum Alloy Wheel, Rim 18x8 04-08 17800329 
+5318 GMC Envoy Aluminum Alloy Wheel, Rim 18x8 04-08 17800329  
+5320 Buick Rainier Aluminum Alloy Wheel, Rim 18x8 04-07 17800816 
+5320 Chevrolet Trailblazer Aluminum Alloy Wheel, Rim 18x8 04-07 17800816  
+5320 GMC Envoy Aluminum Alloy Wheel, Rim 18x8 04-07 17800816
+5321 Buick Rainier Aluminum Alloy Wheel, Rim 18x8 04-07 88965280   
+5367 Buick Enclave Aluminum Alloy Wheel, Rim 20x7.5 08-12 17802025 
+5432-4105 Buick Enclave Aluminum Alloy Wheel, Rim 20x7.5 10-12 9596964
+5465 Buick Enclave Aluminum Alloy Wheel, Rim 20x7.5 08-12 19158093
+5465 Chevrolet Traverse Aluminum Alloy Wheel, Rim 20x7.5 09-12 19158093
+5465 GMC Acadia Aluminum Alloy Wheel, Rim 20x7.5 07-12 19158093
+5466 Buick Enclave Aluminum Alloy Wheel, Rim 20x7.5 08-12 10991334
+6052 Buick Rainier Aluminum Alloy Wheel, Rim 17x7 05-07
+6612 Buick Allure LaCrosse Aluminum Alloy Wheel, Rim 17x6.5 05-09 88963221
+7063 Buick Enclave Aluminum Alloy Wheel, Rim 20x7.5 09-11 9597529 
