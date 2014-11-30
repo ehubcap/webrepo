@@ -1,0 +1,182 @@
+/*
+* Copyright 2014 Seven Spikes Ltd. All rights reserved. (http://www.nop-templates.com)
+* http://www.nop-templates.com/t/licensinginfo
+*/
+
+/* Firefox fix with the popupnot being opened - http://www.telerik.com/forums/q1'14-release---popup-bug-in-firefox */
+.k-ff {
+    overflow: inherit !important;
+}
+
+/* chrome fix with the vertical scroll disappear*/
+.k-webkit {
+    overflow-y: scroll !important;
+}
+
+.home-page-filters-wrapper {
+	margin: 0 0 20px;
+}
+.home-page-filters {
+	text-align: center;
+	font-size: 0;
+}
+
+.home-page-filter-selector {
+	display: inline-block;
+	position: relative;
+	width: 90%;
+	margin: 5px;
+	font-size: 14px; /* set size here, not on child elements */
+	cursor: pointer;
+}
+.home-page-filter-selector .k-dropdown,
+.home-page-filter-selector .k-dropdown-wrap {
+	display: block;
+}
+.home-page-filter-selector .k-state-disabled .k-input {
+	opacity: 0.5;
+}
+.home-page-filter-selector .k-input {
+	display: block;
+	height: 16px;
+	border: 1px solid #999;
+	border-radius: 3px;
+	overflow: hidden;
+	background-color: #fff;
+	padding: 5px 40px 5px 10px;
+	text-align: left;
+	color: #666;
+}
+.home-page-filter-selector .k-select {
+	position: absolute;
+	top: 0;
+	right: 0;
+	width: 26px;
+	height: 26px;
+	border: 1px solid #999;
+	border-radius: 0 3px 3px 0;
+	overflow: hidden;
+	background: url('images/filter-icon.png') center no-repeat;
+	font-size: 0;
+}
+.home-page-filter-selector .k-loading {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background: #fff url('images/loader.gif') center no-repeat;
+}
+
+#home-page-filter-total-products-count.loading {
+    background-image: #fff url('images/loader.gif') center no-repeat;
+}
+
+.home-page-filter-dropdown {
+	height: auto !important;
+	border-width: 0 1px 1px;
+	border-style: solid;
+	border-color: #999;
+	border-radius: 0 0 3px 3px;
+	box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.15);
+	background-color: #fff;
+	text-align: left;
+}
+.home-page-filter-dropdown ul,
+.home-page-filter-dropdown li {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+.home-page-filter-dropdown ul {
+	max-height: 188px;
+	overflow-y: auto;
+}
+.home-page-filter-dropdown li {
+	border-bottom: 1px dotted #ccc;
+	overflow: hidden;
+	padding: 5px 10px;
+	white-space: nowrap;
+	line-height: 16px;
+	font-size: 12px;
+	color: #333;
+	cursor: pointer;
+}
+.home-page-filter-dropdown li:last-child {
+	border-bottom: none;
+}
+.home-page-filter-dropdown li:hover {
+	background-color: #f6f6f6;
+}
+
+.home-page-filter-button {
+	margin: 10px 0 0;
+	text-align: center;
+}
+.home-page-filter-button a {
+	display: inline-block;
+	height: 32px;
+	border-radius: 2px;
+	vertical-align: middle;
+	cursor: pointer;
+	
+	background: #7db72f; /* Old browsers */
+	background: -moz-linear-gradient(top, #7db72f 0%, #4e7d0e 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#7db72f), color-stop(100%,#4e7d0e)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top, #7db72f 0%,#4e7d0e 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top, #7db72f 0%,#4e7d0e 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top, #7db72f 0%,#4e7d0e 100%); /* IE10+ */
+	background: linear-gradient(to bottom, #7db72f 0%,#4e7d0e 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7db72f', endColorstr='#4e7d0e',GradientType=0 ); /* IE6-9 */
+}
+.home-page-filter-button a:hover {
+	background: #4e7d0e; /* Old browsers */
+	background: -moz-linear-gradient(top, #4e7d0e 0%, #7db72f 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#4e7d0e), color-stop(100%,#7db72f)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top, #4e7d0e 0%,#7db72f 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top, #4e7d0e 0%,#7db72f 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top, #4e7d0e 0%,#7db72f 100%); /* IE10+ */
+	background: linear-gradient(to bottom, #4e7d0e 0%,#7db72f 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4e7d0e', endColorstr='#7db72f',GradientType=0 ); /* IE6-9 */
+
+}
+.home-page-filter-button a:hover {
+	text-decoration: none;
+}
+.home-page-filter-button a.text {
+	padding: 0 12px;
+	font: normal 13px/32px Arial, Helvetica, sans-serif;
+	color: #fff;
+	text-transform: uppercase;
+}
+.home-page-filter-button a.icon {
+	display: none;
+	/*width: 40px;
+	background: url('images/filter-button.png') center no-repeat;*/
+}
+.home-page-filter-button .results {
+	display: none;
+    width: 40px; 
+    height: 32px;
+	margin-right: 1px;
+	border-radius: 2px;
+    line-height: 32px;
+    vertical-align: middle; 
+    color: #fff;
+    font-size: 13px; 
+	
+	background: #7db72f; /* Old browsers */
+	background: -moz-linear-gradient(top, #7db72f 0%, #4e7d0e 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#7db72f), color-stop(100%,#4e7d0e)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top, #7db72f 0%,#4e7d0e 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top, #7db72f 0%,#4e7d0e 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top, #7db72f 0%,#4e7d0e 100%); /* IE10+ */
+	background: linear-gradient(to bottom, #7db72f 0%,#4e7d0e 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7db72f', endColorstr='#4e7d0e',GradientType=0 ); /* IE6-9 */
+}
+
+@media all and (min-width: 769px) {
+	.page .home-page-filter-selector {
+		width: 48%;
+	}
+}

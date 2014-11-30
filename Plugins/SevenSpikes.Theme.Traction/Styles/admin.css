@@ -1,0 +1,83 @@
+﻿.theme-color input.multi-store-override-option {
+    display: inline-block;
+}
+.theme-color .adminData{
+    position: relative;
+}
+.theme-color .upload-image-overlay{
+    position: absolute !important;
+}
+.theme-color .upload-image-overlay:before {
+    display: none !important;
+}
+.theme-color .upload-image-overlay:hover {
+    cursor: auto;
+}
+.theme-color .adminData div {
+    float: left;
+    margin: 0 5px;
+    font-size: 0;
+    position: relative;
+    cursor: pointer;
+}
+.theme-color .adminData div:before {
+    content: " ";
+    position: absolute;
+    width: 0;
+    height: 0;
+    top: 50%;
+    left: 50%;
+    border-radius: 4px;
+    -webkit-transition: all .15s ease-in-out;
+    -moz-transition: all .15s ease-in-out;
+    transition: all .15s ease-in-out;
+}
+.theme-color .adminData div:hover:before {
+    width: 29px;
+    height: 29px;
+    top: 5px;
+    left: 5px;
+    border: 3px solid rgba(0,0,0,0.4);
+}
+    .theme-color .adminData div.active:before {
+        width: 45px;
+        height: 45px;
+        top: -3px;
+        left: -3px;
+        border: 3px solid rgba(0,0,0,0.6);
+        border-radius: 5px;
+    }
+
+.theme-color input{
+    display: none;
+}
+
+.theme-color .adminData label {
+    display: block;
+    width: 45px;
+    height: 45px;
+    cursor: pointer;
+    border-radius: 5px;
+    padding: 0;
+}
+.theme-color .adminData label[for=_Preset_Red] {
+    background-color: #c03;
+}
+.theme-color .adminData label[for=_Preset_Black] {
+    background-color: #333;
+}
+.theme-color .adminData label[for=_Preset_Grey] {
+    background-color: #aaa;
+}
+.theme-color .adminData label[for=_Preset_Orange] {
+    background-color: #e04900;
+}
+.theme-color .adminData label[for=_Preset_Blue] {
+    background-color: #467bb1;
+}
+.theme-color .adminData label[for=_Preset_Yellow] {
+    background-color: #ffbb34;
+}
+    .theme-color .radionButton.active label {
+        border-radius: 2px;
+    }

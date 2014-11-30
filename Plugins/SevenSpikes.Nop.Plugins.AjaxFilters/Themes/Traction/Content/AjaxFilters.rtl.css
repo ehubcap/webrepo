@@ -1,0 +1,81 @@
+﻿
+/*.filter-block a.toggleControl {
+	background-position: left center;
+}*/
+.filtersGroupPanel li > a {
+	padding: 10px 20px 10px 0;
+	text-align: right;
+}
+.filtersGroupPanel li a:before {
+	right: 0;
+	left: auto;
+}
+.colorOptions .color-container {
+	left: 0;
+	right: auto;
+}
+.jDropDown > div {
+	text-align: right;
+}
+.jDropDown > div:after {
+	left: 0;
+	right: auto;
+}
+.jDropDown ul{
+	text-align: right;
+}
+.filtersDropDown div {
+	background-position: 0 center !important;
+}
+.filtersDropDown.jDropDown a {
+	padding-right: 10px;
+	padding-left: 0;
+}
+
+@media all and (max-width: 1000px) {
+
+.nopAjaxFilters7Spikes {
+	-webkit-transform: translate(320px);
+	-moz-transform: translate(320px);
+	-ms-transform: translate(320px);
+	transform: translate(320px);
+}
+.nopAjaxFilters7Spikes .close-filters span {
+	text-align: left;
+}
+.nopAjaxFilters7Spikes {
+	right: 0;
+	left: auto;
+}
+.nopAjaxFilters7Spikes .close-filters span:before {
+	right: 10px;
+	left: auto;
+}
+.filter-block a.toggleControl {
+	text-align: right;
+	background-position: left center;
+}
+.filter-block a.clearFilterOptions,
+.filter-block a.clearPriceRangeFilter {
+	left: 10px;
+	right: auto;
+}
+
+}
+
+@media all and (min-width: 1001px) {
+
+.filter-block a.clearFilterOptions, 
+.filter-block a.clearPriceRangeFilter {
+	left: 10px;
+	right: auto;
+}
+.jDropDown > div {
+	padding: 4px 8px 4px 26px;
+}
+.filtersDropDown.jDropDown a {
+	padding: 4px 8px 4px 26px !important;
+}
+
+
+}

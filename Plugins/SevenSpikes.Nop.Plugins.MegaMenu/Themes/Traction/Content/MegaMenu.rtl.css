@@ -1,0 +1,11 @@
+﻿
+.mega-menu .dropdown.fullWidth {
+	right: auto;
+	left: 0;
+}
+.categories.fullWidth .box ul {
+	margin: 0 110px 0 0;
+}
+.mega-menu .picture {
+	float: right;
+}
