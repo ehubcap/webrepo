@@ -4,85 +4,85 @@
       "name": "/Themes/Traction/Content/img/arrow-right.png",
       "width": 7,
       "height": 14,
-      "offsetX": 0,
-      "offsetY": 0
+      "offsetX": 1,
+      "offsetY": 1
     },
     {
       "name": "/Themes/Traction/Content/img/compare-button.png",
       "width": 20,
       "height": 20,
-      "offsetX": 0,
-      "offsetY": 14
+      "offsetX": 1,
+      "offsetY": 16
     },
     {
       "name": "/Themes/Traction/Content/img/footer-icon-1.png",
       "width": 20,
       "height": 20,
-      "offsetX": 0,
-      "offsetY": 34
+      "offsetX": 1,
+      "offsetY": 37
     },
     {
       "name": "/Themes/Traction/Content/img/footer-icon-2.png",
       "width": 20,
       "height": 20,
-      "offsetX": 0,
-      "offsetY": 54
+      "offsetX": 1,
+      "offsetY": 58
     },
     {
       "name": "/Themes/Traction/Content/img/footer-icon-4.png",
       "width": 20,
       "height": 20,
-      "offsetX": 0,
-      "offsetY": 74
+      "offsetX": 1,
+      "offsetY": 79
     },
     {
       "name": "/Themes/Traction/Content/img/header-link-1.png",
       "width": 20,
       "height": 20,
-      "offsetX": 0,
-      "offsetY": 94
+      "offsetX": 1,
+      "offsetY": 100
     },
     {
       "name": "/Themes/Traction/Content/img/header-link-2.png",
       "width": 20,
       "height": 20,
-      "offsetX": 0,
-      "offsetY": 114
+      "offsetX": 1,
+      "offsetY": 121
     },
     {
       "name": "/Themes/Traction/Content/img/header-link-4.png",
       "width": 23,
       "height": 22,
-      "offsetX": 0,
-      "offsetY": 134
+      "offsetX": 1,
+      "offsetY": 142
     },
     {
       "name": "/Themes/Traction/Content/img/header-link-5.png",
       "width": 26,
       "height": 22,
-      "offsetX": 0,
-      "offsetY": 156
+      "offsetX": 1,
+      "offsetY": 165
     },
     {
       "name": "/Themes/Traction/Content/img/rating1.png",
       "width": 26,
       "height": 23,
-      "offsetX": 0,
-      "offsetY": 178
+      "offsetX": 1,
+      "offsetY": 188
     },
     {
       "name": "/Themes/Traction/Content/img/rating2.png",
       "width": 26,
       "height": 23,
-      "offsetX": 0,
-      "offsetY": 201
+      "offsetX": 1,
+      "offsetY": 212
     },
     {
       "name": "/Themes/Traction/Content/img/search-button.png",
       "width": 14,
       "height": 14,
-      "offsetX": 0,
-      "offsetY": 224
+      "offsetX": 1,
+      "offsetY": 236
     }
   ]
 }
