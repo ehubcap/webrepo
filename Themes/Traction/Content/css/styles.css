@@ -1021,11 +1021,11 @@ label {
     border-radius: 50%;
     /*box-shadow: 0 0 0 5px #fff;
 	background: #fff url('../img/gotop.png') no-repeat center 45%;*/
-    background: url('http://st1d.ehubcap.net/themes/traction/content/img/gotop.png') no-repeat center 45%, -o-gradient(to bottom,#6384b6 0%,#526c97 25%,#415578 50%,#303e59 70%,#050a17 100%);
-    background: url('http://st1d.ehubcap.net/themes/traction/content/img/gotop.png') no-repeat center 45%, -moz-gradient(to bottom,#6384b6 0%,#526c97 25%,#415578 50%,#303e59 70%,#050a17 100%);
-    background: url('http://st1d.ehubcap.net/themes/traction/content/img/gotop.png') no-repeat center 45%, -ms-gradient(to bottom,#6384b6 0%,#526c97 25%,#415578 50%,#303e59 70%,#050a17 100%);
-    background: url('http://st1d.ehubcap.net/themes/traction/content/img/gotop.png') no-repeat center 45%, -webkit-gradient(to bottom,#6384b6 0%,#526c97 25%,#415578 50%,#303e59 70%,#050a17 100%);
-    background: url('http://st1d.ehubcap.net/themes/traction/content/img/gotop.png') no-repeat center 45%, linear-gradient(to bottom,#6384b6 0%,#526c97 25%,#415578 50%,#303e59 70%,#050a17 100%);
+    background: url('../img/gotop.png') no-repeat center 45%, -o-gradient(to bottom,#6384b6 0%,#526c97 25%,#415578 50%,#303e59 70%,#050a17 100%);
+    background: url('../img/gotop.png') no-repeat center 45%, -moz-gradient(to bottom,#6384b6 0%,#526c97 25%,#415578 50%,#303e59 70%,#050a17 100%);
+    background: url('../img/gotop.png') no-repeat center 45%, -ms-gradient(to bottom,#6384b6 0%,#526c97 25%,#415578 50%,#303e59 70%,#050a17 100%);
+    background: url('../img/gotop.png') no-repeat center 45%, -webkit-gradient(to bottom,#6384b6 0%,#526c97 25%,#415578 50%,#303e59 70%,#050a17 100%);
+    background: url('../img/gotop.png') no-repeat center 45%, linear-gradient(to bottom,#6384b6 0%,#526c97 25%,#415578 50%,#303e59 70%,#050a17 100%);
     cursor: pointer;
     -webkit-transition: all .2s ease-in-out;
     -moz-transition: all .2s ease-in-out;
@@ -1659,7 +1659,7 @@ label {
 /*********** FOOTER ***********/
 
 .footer {
-    background: url(http://st1d.ehubcap.net/themes/traction/content/img/footer-bg-4.jpg) left top;
+    background: url(../img/footer-bg-4.jpg) left top;
     border-top: 1px solid #3D627D;
 }
 
