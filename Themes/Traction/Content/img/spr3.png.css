@@ -1,0 +1,99 @@
+﻿/*
+This is an example of how to use the image sprite in your own CSS files
+*/
+.close {
+/* You may have to set 'display: block' */
+	width: 8px;
+	height: 8px;
+	background: url('spr3.png') -20px -20px;
+}
+.goTop {
+/* You may have to set 'display: block' */
+	width: 27px;
+	height: 14px;
+	background: url('spr3.png') -20px -48px;
+}
+.mobile-arrow-black {
+/* You may have to set 'display: block' */
+	width: 8px;
+	height: 13px;
+	background: url('spr3.png') -20px -82px;
+}
+.mobile-menu-close {
+/* You may have to set 'display: block' */
+	width: 13px;
+	height: 12px;
+	background: url('spr3.png') -20px -115px;
+}
+.order-progress-1 {
+/* You may have to set 'display: block' */
+	width: 36px;
+	height: 36px;
+	background: url('spr3.png') -20px -147px;
+}
+.order-progress-2 {
+/* You may have to set 'display: block' */
+	width: 36px;
+	height: 36px;
+	background: url('spr3.png') -20px -203px;
+}
+.order-progress-red {
+/* You may have to set 'display: block' */
+	width: 36px;
+	height: 36px;
+	background: url('spr3.png') -20px -259px;
+}
+.plus-1 {
+/* You may have to set 'display: block' */
+	width: 16px;
+	height: 16px;
+	background: url('spr3.png') -20px -315px;
+}
+.minus-1 {
+/* You may have to set 'display: block' */
+	width: 16px;
+	height: 16px;
+	background: url('spr3.png') -20px -351px;
+}
+.product-icon-1 {
+/* You may have to set 'display: block' */
+	width: 40px;
+	height: 24px;
+	background: url('spr3.png') -20px -387px;
+}
+.product-icon-2 {
+/* You may have to set 'display: block' */
+	width: 40px;
+	height: 24px;
+	background: url('spr3.png') -20px -431px;
+}
+.subscribe-button {
+/* You may have to set 'display: block' */
+	width: 14px;
+	height: 14px;
+	background: url('spr3.png') -20px -475px;
+}
+.table-minus {
+/* You may have to set 'display: block' */
+	width: 19px;
+	height: 19px;
+	background: url('spr3.png') -20px -509px;
+}
+.table-plus {
+/* You may have to set 'display: block' */
+	width: 19px;
+	height: 19px;
+	background: url('spr3.png') -20px -548px;
+}
+.button-close-hover {
+/* You may have to set 'display: block' */
+	width: 8px;
+	height: 8px;
+	background: url('spr3.png') -20px -587px;
+}
+.button-close {
+/* You may have to set 'display: block' */
+	width: 8px;
+	height: 8px;
+	background: url('spr3.png') -20px -615px;
+}

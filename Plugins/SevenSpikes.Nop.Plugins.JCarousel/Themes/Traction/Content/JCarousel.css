@@ -53,14 +53,20 @@
 	transition: all 0.25s ease-in-out;*/
 }
 .nop-jcarousel .jcarousel-prev {
-	background: #f6f6f6 url('images/prev-horizontal.png') center top no-repeat;
+        background: url('../../../../../Themes/Traction/Content/img/spr1.png') 0px -358px no-repeat;
 }
 .nop-jcarousel .jcarousel-next {
-	background: #f6f6f6 url('images/next-horizontal.png') center top no-repeat;
+        background: url('../../../../../Themes/Traction/Content/img/spr1.png') 0px -458px no-repeat;
+    }
+
+        .nop-jcarousel .jcarousel-prev:hover{
+            background-position: 0px -399px;
+            background-color: #333;
+            border-color: #333;
 }
 .nop-jcarousel .jcarousel-prev:hover,
 .nop-jcarousel .jcarousel-next:hover {
-	background-position: center bottom;
+            background-position: 0px -499px;
 	background-color: #333;
 	border-color: #333;
 }
@@ -124,7 +130,11 @@
 	max-width: 100%;
 	max-height: 100%;
 	margin: auto;
-	-webkit-transform: translateZ(0) scale(1.0, 1.0); /* fixes the bug of the 1px moving product images when hover on category */
+            -webkit-transform: translateZ(0) scale(1.0, 1.0);
+            -moz-transform: translateZ(0) scale(1.0, 1.0);
+            -ms-transform: translateZ(0) scale(1.0, 1.0);
+            -o-transform: translateZ(0) scale(1.0, 1.0);
+            transform: translateZ(0) scale(1.0, 1.0); /* fixes the bug of the 1px moving product images when hover on category */
 }
 .nop-jcarousel .item-info {
 	position: relative;

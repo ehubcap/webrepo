@@ -1,0 +1,15 @@
+﻿/*
+This is an example of how to use the image sprite in your own CSS files
+*/
+.category-pad {
+/* You may have to set 'display: block' */
+	width: 26px;
+	height: 280px;
+	background: url('spr6.jpg') 0 0;
+}
+.footer-bg-4 {
+/* You may have to set 'display: block' */
+	width: 320px;
+	height: 260px;
+	background: url('spr6.jpg') 0 -280px;
+}

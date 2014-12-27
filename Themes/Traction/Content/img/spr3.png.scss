@@ -1,0 +1,99 @@
+﻿/*
+@import this file directly into your existing Scss files to use these mixins
+*/
+@mixin sprite-close() {
+/* You may have to set 'display: block' */
+	width: 8px;
+	height: 8px;
+	background: url('spr3.png') -20px -20px;
+}
+@mixin sprite-goTop() {
+/* You may have to set 'display: block' */
+	width: 27px;
+	height: 14px;
+	background: url('spr3.png') -20px -48px;
+}
+@mixin sprite-mobile-arrow-black() {
+/* You may have to set 'display: block' */
+	width: 8px;
+	height: 13px;
+	background: url('spr3.png') -20px -82px;
+}
+@mixin sprite-mobile-menu-close() {
+/* You may have to set 'display: block' */
+	width: 13px;
+	height: 12px;
+	background: url('spr3.png') -20px -115px;
+}
+@mixin sprite-order-progress-1() {
+/* You may have to set 'display: block' */
+	width: 36px;
+	height: 36px;
+	background: url('spr3.png') -20px -147px;
+}
+@mixin sprite-order-progress-2() {
+/* You may have to set 'display: block' */
+	width: 36px;
+	height: 36px;
+	background: url('spr3.png') -20px -203px;
+}
+@mixin sprite-order-progress-red() {
+/* You may have to set 'display: block' */
+	width: 36px;
+	height: 36px;
+	background: url('spr3.png') -20px -259px;
+}
+@mixin sprite-plus-1() {
+/* You may have to set 'display: block' */
+	width: 16px;
+	height: 16px;
+	background: url('spr3.png') -20px -315px;
+}
+@mixin sprite-minus-1() {
+/* You may have to set 'display: block' */
+	width: 16px;
+	height: 16px;
+	background: url('spr3.png') -20px -351px;
+}
+@mixin sprite-product-icon-1() {
+/* You may have to set 'display: block' */
+	width: 40px;
+	height: 24px;
+	background: url('spr3.png') -20px -387px;
+}
+@mixin sprite-product-icon-2() {
+/* You may have to set 'display: block' */
+	width: 40px;
+	height: 24px;
+	background: url('spr3.png') -20px -431px;
+}
+@mixin sprite-subscribe-button() {
+/* You may have to set 'display: block' */
+	width: 14px;
+	height: 14px;
+	background: url('spr3.png') -20px -475px;
+}
+@mixin sprite-table-minus() {
+/* You may have to set 'display: block' */
+	width: 19px;
+	height: 19px;
+	background: url('spr3.png') -20px -509px;
+}
+@mixin sprite-table-plus() {
+/* You may have to set 'display: block' */
+	width: 19px;
+	height: 19px;
+	background: url('spr3.png') -20px -548px;
+}
+@mixin sprite-button-close-hover() {
+/* You may have to set 'display: block' */
+	width: 8px;
+	height: 8px;
+	background: url('spr3.png') -20px -587px;
+}
+@mixin sprite-button-close() {
+/* You may have to set 'display: block' */
+	width: 8px;
+	height: 8px;
+	background: url('spr3.png') -20px -615px;
+}

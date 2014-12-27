@@ -1,0 +1,88 @@
+{
+  "images": [
+    {
+      "name": "/W:\\My Web Sites\\ehubcap\\Themes\\Traction\\Content\\img\\arrow-right.png",
+      "width": 7,
+      "height": 14,
+      "offsetX": 3,
+      "offsetY": 3
+    },
+    {
+      "name": "/W:\\My Web Sites\\ehubcap\\Themes\\Traction\\Content\\img\\compare-button.png",
+      "width": 20,
+      "height": 20,
+      "offsetX": 3,
+      "offsetY": 20
+    },
+    {
+      "name": "/W:\\My Web Sites\\ehubcap\\Themes\\Traction\\Content\\img\\footer-icon-1.png",
+      "width": 20,
+      "height": 20,
+      "offsetX": 3,
+      "offsetY": 43
+    },
+    {
+      "name": "/W:\\My Web Sites\\ehubcap\\Themes\\Traction\\Content\\img\\footer-icon-2.png",
+      "width": 20,
+      "height": 20,
+      "offsetX": 3,
+      "offsetY": 66
+    },
+    {
+      "name": "/W:\\My Web Sites\\ehubcap\\Themes\\Traction\\Content\\img\\footer-icon-4.png",
+      "width": 20,
+      "height": 20,
+      "offsetX": 3,
+      "offsetY": 89
+    },
+    {
+      "name": "/W:\\My Web Sites\\ehubcap\\Themes\\Traction\\Content\\img\\header-link-1.png",
+      "width": 20,
+      "height": 20,
+      "offsetX": 3,
+      "offsetY": 112
+    },
+    {
+      "name": "/W:\\My Web Sites\\ehubcap\\Themes\\Traction\\Content\\img\\header-link-2.png",
+      "width": 20,
+      "height": 20,
+      "offsetX": 3,
+      "offsetY": 135
+    },
+    {
+      "name": "/W:\\My Web Sites\\ehubcap\\Themes\\Traction\\Content\\img\\header-link-4.png",
+      "width": 23,
+      "height": 22,
+      "offsetX": 3,
+      "offsetY": 158
+    },
+    {
+      "name": "/W:\\My Web Sites\\ehubcap\\Themes\\Traction\\Content\\img\\header-link-5.png",
+      "width": 26,
+      "height": 22,
+      "offsetX": 3,
+      "offsetY": 183
+    },
+    {
+      "name": "/W:\\My Web Sites\\ehubcap\\Themes\\Traction\\Content\\img\\rating1.png",
+      "width": 26,
+      "height": 23,
+      "offsetX": 3,
+      "offsetY": 208
+    },
+    {
+      "name": "/W:\\My Web Sites\\ehubcap\\Themes\\Traction\\Content\\img\\rating2.png",
+      "width": 26,
+      "height": 23,
+      "offsetX": 3,
+      "offsetY": 234
+    },
+    {
+      "name": "/W:\\My Web Sites\\ehubcap\\Themes\\Traction\\Content\\img\\search-button.png",
+      "width": 14,
+      "height": 14,
+      "offsetX": 3,
+      "offsetY": 260
+    }
+  ]
+}

@@ -37,14 +37,19 @@
 	display: none;
 }
 .previous-product a {
-	background: #f6f6f6 url('img/product-arrow-left.png') no-repeat center top;
+    background: url('../../../../../Themes/Traction/Content/img/spr1.png') 0px -358px no-repeat;
 }
 .next-product a {
-	background: #f6f6f6 url('img/product-arrow-right.png') no-repeat center top;
+    background: url('../../../../../Themes/Traction/Content/img/spr1.png') 0px -458px no-repeat;
+}
+.previous-product a:hover {
+    background-position: 0px -399px;
+    background-color: #333;
+    border-color: #333;
 }
 .previous-product a:hover,
 .next-product a:hover {
-	background-position: center bottom;
+    background-position: 0px -499px;
 	background-color: #333;
 	border-color: #333;
 }

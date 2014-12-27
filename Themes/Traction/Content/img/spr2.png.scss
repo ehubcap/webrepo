@@ -1,0 +1,27 @@
+﻿/*
+@import this file directly into your existing Scss files to use these mixins
+*/
+@mixin sprite-rating1() {
+/* You may have to set 'display: block' */
+	width: 26px;
+	height: 23px;
+	background: url('spr2.png') 0 0;
+}
+@mixin sprite-rating2() {
+/* You may have to set 'display: block' */
+	width: 26px;
+	height: 23px;
+	background: url('spr2.png') 0 -23px;
+}
+@mixin sprite-separator26() {
+/* You may have to set 'display: block' */
+	width: 26px;
+	height: 18px;
+	background: url('spr2.png') 0 -46px;
+}
+@mixin sprite-category-pad() {
+/* You may have to set 'display: block' */
+	width: 26px;
+	height: 280px;
+	background: url('spr2.png') 0 -64px;
+}

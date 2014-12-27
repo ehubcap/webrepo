@@ -1,0 +1,27 @@
+﻿/*
+This is an example of how to use the image sprite in your own CSS files
+*/
+.rating1 {
+/* You may have to set 'display: block' */
+	width: 26px;
+	height: 23px;
+	background: url('spr2.png') 0 0;
+}
+.rating2 {
+/* You may have to set 'display: block' */
+	width: 26px;
+	height: 23px;
+	background: url('spr2.png') 0 -23px;
+}
+.separator26 {
+/* You may have to set 'display: block' */
+	width: 26px;
+	height: 18px;
+	background: url('spr2.png') 0 -46px;
+}
+.category-pad {
+/* You may have to set 'display: block' */
+	width: 26px;
+	height: 280px;
+	background: url('spr2.png') 0 -64px;
+}

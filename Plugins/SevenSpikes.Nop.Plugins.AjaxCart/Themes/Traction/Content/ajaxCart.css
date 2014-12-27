@@ -13,7 +13,7 @@
 	float: left;
 	margin-right: 1px;
     border: none;
-	background: #c03 url('images/quantity.png') center no-repeat;
+	background: #c03 url('../../../../../Themes/Traction/Content/img/spr1.png') -2px -310px no-repeat;
 	padding: 0;
 	text-align: center;
 	font: normal 11px "Trebuchet MS", Arial, Helvetica, sans-serif;

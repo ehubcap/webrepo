@@ -32,10 +32,10 @@
 }
 .jcarousel-skin-thumbs .jcarousel-prev-horizontal {
     left: 0;
-    background: url('images/prev-horizontal.png') no-repeat center;
+    background: url('../../../../../../Themes/Traction/Content/img/spr4.png') -20px -303px no-repeat;
 }
 
 .jcarousel-skin-thumbs .jcarousel-next-horizontal {
     right: 0;
-    background: url('images/next-horizontal.png') no-repeat center;
+    background: url('../../../../../../Themes/Traction/Content/img/spr4.png') -20px -224px no-repeat;
 }

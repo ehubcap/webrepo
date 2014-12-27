@@ -36,7 +36,7 @@ input.narrow.instant-search-busy {
 	max-width: none;
 	height: 30px;
 	border-color: transparent;
-	background: url('images/border.png') left center no-repeat;
+	background: url('../../../../../Themes/Traction/Content/img/spr1.png') -10px -862px no-repeat;
 	padding: 5px;
 	color: #666;
 }

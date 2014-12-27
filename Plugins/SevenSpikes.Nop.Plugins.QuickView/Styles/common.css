@@ -97,7 +97,10 @@
 	width: 18px;
 	height: 18px;
 	border: 1px solid #999;
-	background: #ccc url('images/button-close.png') center no-repeat;
+	background: #ccc;
+    background-image: url('../../../Themes/Traction/Content/img/spr4.png');
+    background-position: -15px -136px;
+    background-repeat: no-repeat;
 }
 .quickView .k-window-titlebar.k-header .k-window-actions a:hover {
 	border-color: #aaa;
@@ -200,12 +203,14 @@
 }
 .quickViewWindow .links-panel a {
     display: block;
-    background: url('images/bullet-right.png') left center no-repeat;
+    background: url('../../../Themes/Traction/Content/img/spr4.png') -20px -110px no-repeat;
 	padding-left: 15px;
     text-align: left;
     font-size: 14px;
 	text-transform: uppercase;
 	color: #333;
+	width: 100%;
+	height: 15px;
 }
 .quickViewWindow .links-panel a:hover {
     text-decoration: underline;

@@ -64,7 +64,7 @@
 	height: 32px;
 	border: 1px solid #ccc;
 	overflow: hidden;
-	background: #A9B1BE  url('images/filter-icon.png') center no-repeat;
+	background: #A9B1BE  url('../../../../../Themes/Traction/Content/img/spr1.png') -2px -127px no-repeat;
 	font-size: 0;
 }
 .home-page-filter-selector .k-loading {
@@ -126,8 +126,8 @@
 .home-page-filter-button a.icon {
 	width: 40px;
 	margin-left: 1px;
-	background-image: url('images/filter-button.png');
-	background-position: center;
+	background-image: url('../../../../../Themes/Traction/Content/img/spr1.png');
+	background-position: -10px -164px;
 	background-repeat: no-repeat;
 }
 .home-page-filter-button .results {

@@ -79,11 +79,15 @@ Supports Thumbs: true
     font-size: 0;
 }
 a.nivo-prevNav {
-    background-image: url('nav-button-left.png');
+        background-image: url('../../../../../../Themes/Traction/Content/img/spr1.png');
+        background-position: 0px -34px; 
+        background-repeat: no-repeat;
     left: 20px;
 }
 a.nivo-nextNav {
-    background-image: url('nav-button-right.png');
+        background-image: url('../../../../../../Themes/Traction/Content/img/spr1.png');
+        background-position: 0px -78px; 
+        background-repeat: no-repeat;
     right: 20px;
 }
 .nivo-directionNav a:hover {

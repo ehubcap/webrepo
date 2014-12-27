@@ -16,7 +16,7 @@
 	display: block;
 	width: 40px;
     height: 32px;
-	background: #333 url('images/btn-quickview.png') center no-repeat;
+	background: #333 url('../../../../../Themes/Traction/Content/img/spr1.png') -10px -220.5px;
 	padding: 0;
 	font-size: 0;
 }
@@ -66,10 +66,18 @@
 }
 
 .quickViewWindow #accordion .ui-icon-circle-arrow-s {
-    background: url('images/minus-1.png') center no-repeat;
+    background-image: url('../../../../../Themes/Traction/Content/img/spr3.png');
+    background-position: -20px -351px;
+    background-repeat: no-repeat;
+    width: 16px;
+	height: 16px;
 }
 .quickViewWindow #accordion .ui-icon-circle-arrow-e {
-    background: url('images/plus-1.png') center no-repeat;
+    background-image: url('../../../../../Themes/Traction/Content/img/spr3.png');
+    background-position: -20px -315px;
+    background-repeat: no-repeat;
+    width: 16px;
+	height: 16px;
 }
 .quickViewWindow #accordion .product-details {
 	border-color: #fff #ddd #ddd;
@@ -86,7 +94,7 @@
 	white-space: normal;
 }
 .quickViewWindow .overview .right input[type="button"] {
-	width: 190px;
+	width: auto;
 	min-width: 0;
 	white-space: normal;
 }

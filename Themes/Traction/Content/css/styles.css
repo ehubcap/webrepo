@@ -1020,12 +1020,12 @@ label {
     -webkit-border-radius: 50%;
     border-radius: 50%;
     /*box-shadow: 0 0 0 5px #fff;
-	background: #fff url('../img/gotop.png') no-repeat center 45%;*/
-    background: url('../img/gotop.png') no-repeat center 45%, -o-gradient(to bottom,#6384b6 0%,#526c97 25%,#415578 50%,#303e59 70%,#050a17 100%);
-    background: url('../img/gotop.png') no-repeat center 45%, -moz-gradient(to bottom,#6384b6 0%,#526c97 25%,#415578 50%,#303e59 70%,#050a17 100%);
-    background: url('../img/gotop.png') no-repeat center 45%, -ms-gradient(to bottom,#6384b6 0%,#526c97 25%,#415578 50%,#303e59 70%,#050a17 100%);
-    background: url('../img/gotop.png') no-repeat center 45%, -webkit-gradient(to bottom,#6384b6 0%,#526c97 25%,#415578 50%,#303e59 70%,#050a17 100%);
-    background: url('../img/gotop.png') no-repeat center 45%, linear-gradient(to bottom,#6384b6 0%,#526c97 25%,#415578 50%,#303e59 70%,#050a17 100%);
+	background: #fff url('../img/goTop.png') no-repeat center 45%;*/
+    background: url('../img/spr3.png') no-repeat -10px -33px, -o-gradient(to bottom,#6384b6 0%,#526c97 25%,#415578 50%,#303e59 70%,#050a17 100%);
+    background: url('../img/spr3.png') no-repeat -10px -33px, -moz-gradient(to bottom,#6384b6 0%,#526c97 25%,#415578 50%,#303e59 70%,#050a17 100%);
+    background: url('../img/spr3.png') no-repeat -10px -33px, -ms-gradient(to bottom,#6384b6 0%,#526c97 25%,#415578 50%,#303e59 70%,#050a17 100%);
+    background: url('../img/spr3.png') no-repeat -10px -33px, -webkit-gradient(to bottom,#6384b6 0%,#526c97 25%,#415578 50%,#303e59 70%,#050a17 100%);
+    background: url('../img/spr3.png') no-repeat -10px -33px, linear-gradient(to bottom,#6384b6 0%,#526c97 25%,#415578 50%,#303e59 70%,#050a17 100%);
     cursor: pointer;
     -webkit-transition: all .2s ease-in-out;
     -moz-transition: all .2s ease-in-out;
@@ -1206,7 +1206,7 @@ label {
         -moz-box-shadow: inset 0 0 1px #999;
         -webkit-box-shadow: inset 0 0 1px #999;
         box-shadow: inset 0 0 1px #999;
-        background: #fff url('../img/close.png') center no-repeat;
+        background: #fff url('../img/spr3.png') -15px -15px no-repeat;
         cursor: pointer;
         opacity: 0.7;
     }
@@ -1426,14 +1426,26 @@ label {
         color: #666;
     }
 
-    .header-links .ico-register,
+    .header-links .ico-register {
+         background-image: url('../img/spr5.png');
+         background-position: 35px -51px;
+         background-repeat: no-repeat;
+    }
+
     .header-links .account {
         background: url('../img/header-link-1.png') right center no-repeat;
     }
 
-    .header-links .ico-login,
+    .header-links .ico-login {
+         background-image: url('../img/spr5.png');
+         background-position: 23px -91px;
+         background-repeat: no-repeat;
+    }
+
     .header-links .ico-logout {
-        background: url('../img/header-link-2.png') right center no-repeat;
+         background-image: url('../img/spr5.png');
+         background-position: 29.5px -91px;
+         background-repeat: no-repeat;
     }
 
     .header-links .ico-inbox {
@@ -1441,11 +1453,15 @@ label {
     }
 
     .header-links .ico-wishlist {
-        background: url('../img/header-link-4.png') right center no-repeat;
+         background-image: url('../img/spr5.png');
+         background-position: 30px -133.5px;
+         background-repeat: no-repeat;
     }
 
     .header-links .ico-cart {
-        background: url('../img/header-link-5.png') right center no-repeat;
+         background-image: url('../img/spr5.png');
+         background-position: 62px -175px;
+         background-repeat: no-repeat;
         padding-right: 30px;
     }
 
@@ -1545,7 +1561,7 @@ label {
         height: 36px;
         border: none;
         overflow: hidden;
-        background: url('../img/search-button.png') center no-repeat;
+        background: url('../img/spr1.png') 0px -1px no-repeat;
         text-indent: 999px;
     }
 
@@ -1659,7 +1675,7 @@ label {
 /*********** FOOTER ***********/
 
 .footer {
-    background: url(../img/footer-bg-4.jpg) left top;
+    background: url('../img/footer-bg-4.jpg') left top;
     border-top: 1px solid #3D627D;
 }
 
@@ -1715,7 +1731,9 @@ label {
 
     .footer-block.links a:hover,
     .footer-block.recently-viewed a:hover {
-        background-image: url('../img/arrow-right-red.png');
+        background-image: url('../img/spr4.png');
+        background-position: -15px -400px;
+        background-repeat: no-repeat;
         color: #c03;
     }
 
@@ -1734,11 +1752,11 @@ label {
             }
 
     .footer-block .phone {
-        background: url('../img/footer-icon-1.png') left center no-repeat;
+        background: url('../img/spr1.png') -10px -904.5px no-repeat;
     }
 
     .footer-block .fax {
-        background: url('../img/footer-icon-2.png') left center no-repeat;
+        background: url('../img/spr1.png') -10px -944.5px no-repeat;
     }
 
     .footer-block .mobile {
@@ -1746,7 +1764,7 @@ label {
     }
 
     .footer-block .email {
-        background: url('../img/footer-icon-4.png') left center no-repeat;
+        background: url('../img/spr1.png') -10px -984.5px no-repeat;
     }
 
     .footer-block .skype {
@@ -1755,7 +1773,7 @@ label {
 
     .footer-block li a {
         display: block;
-        background: url('../img/arrow-right.png') left center no-repeat;
+        background: url('../img/spr1.png') -10px -1022px no-repeat;
         padding: 10px 0 10px 15px;
     }
 
@@ -1785,7 +1803,7 @@ label {
         display: block;
         width: 32px;
         height: 32px;
-        background: url('../img/social_sprite.png') no-repeat;
+       background: url('../img/spr1.png') -10px -558px no-repeat;
     }
 
         .social-sharing a:hover {
@@ -1793,27 +1811,32 @@ label {
         }
 
     .social-sharing .twitter {
-        background-position: 0 0;
+        background-position: -10px -558px;
     }
 
     .social-sharing .facebook {
-        background-position: -32px 0;
+        background-position: -42px -558px;
     }
 
     .social-sharing .youtube {
-        background-position: -64px 0;
-    }
-
-    .social-sharing .pinterest {
-        background-position: -128px 0;
+        background-position: -74px -558px;
     }
 
     .social-sharing .google {
-        background-position: -96px 0;
+        background-position: -106px -558px;
+    }
+
+    .social-sharing .pinterest {
+        background-position: -138px -558px;
+    }
+
+
+    .social-sharing .vimeo {
+        background-position: -170px -558px;
     }
 
     .social-sharing .rss {
-        background-position: -192px 0;
+        background-position: -202px -558px;
     }
 
     .social-sharing .vimeo {
@@ -1882,23 +1905,23 @@ label {
         height: 36px;
         margin: 0 5px 5px;
         border: 1px solid #bbb;
-        background: url('../img/payment_sprite.png') no-repeat;
+        background: url('../img/spr1.png') -10px -642px no-repeat;
     }
 
     .accepted-payment-methods .method1 {
-        background-position: 0 0;
+        background-position: -10px -642px;
     }
 
     .accepted-payment-methods .method2 {
-        background-position: -57px 0;
+        background-position: -67px -642px;
     }
 
     .accepted-payment-methods .method3 {
-        background-position: -114px 0;
+        background-position: -124px -642px;
     }
 
     .accepted-payment-methods .method4 {
-        background-position: -171px 0;
+        background-position: -181px -642px;
     }
 
 .footer-lower {
@@ -2003,17 +2026,21 @@ label {
 
     .block .list > li {
         border-bottom: 1px dotted #829ec2;
-        font-size: 13px;
+        font-size: 14px;
     }
 
     .block .list a {
         display: block;
-        background: url('../img/arrow-right-1.png') 2% center no-repeat;
+        background-image: url('../img/spr4.png'); 
+        background-position: -15px -366px;
+        background-repeat: no-repeat;
         padding: 15px 0 15px 18px;
     }
 
         .block .list a:hover {
-            background-image: url('../img/arrow-right-red.png');
+            background-image: url('../img/spr4.png');
+            background-position: -15px -400px;
+            background-repeat: no-repeat;
             color: #c03;
         }
 
@@ -2352,13 +2379,13 @@ div.product-viewmode {
 
 .item-box .rating {
     display: inline-block;
-    background: url('../img/rating1.png') repeat-x;
+    background: url('../img/spr2.png') 0 0 repeat-x;
     width: 130px;
     height: 23px;
 }
 
     .item-box .rating div {
-        background: url('../img/rating2.png') repeat-x;
+        background: url('../img/spr2.png') 0 -23px repeat-x;
         height: 23px;
     }
 
@@ -2387,7 +2414,7 @@ div.product-viewmode {
 .sub-category-grid,
 .manufacturer-grid {
     margin: 0 0 40px;
-    background: #eee url('../img/category-pad-2.jpg') left top repeat;
+    background: #eee url('../img/spr2.png') 0 -62px repeat;
     padding: 30px 10%;
 }
 
@@ -2696,7 +2723,7 @@ div.product-viewmode {
 .overview .subscribe-button,
 .download-sample-button a {
     display: inline-block;
-    min-width: 150px;
+    min-width: 160px;
     border: 1px solid #ccc;
     background-color: #eee;
     background-position: right center;
@@ -2707,11 +2734,19 @@ div.product-viewmode {
 
 .overview .add-to-wishlist-button,
 .variant-overview .add-to-wishlist-button {
-    background-image: url('../img/product-icon-1.png');
+    background-image: url('../img/spr3.png');
+    background-position: 90px -383px;
+    background-repeat: no-repeat;
+    width: 40px;
+    height: 33px;
 }
 
 .overview .add-to-compare-list-button {
-    background-image: url('../img/product-icon-2.png');
+    background-image: url('../img/spr3.png');
+    background-position: 102px -427px;
+    background-repeat: no-repeat;
+    width: 40px;
+    height: 33px;
 }
 
 .overview .email-a-friend {
@@ -2805,12 +2840,12 @@ div.product-viewmode {
     .product-review-box .rating {
         width: 130px;
         height: 23px;
-        background: url('../img/rating1.png') repeat-x;
+        background: url('../img/spr2.png') 0 0px repeat-x;
     }
 
         .product-review-box .rating div {
             height: 23px;
-            background: url('../img/rating2.png') repeat-x;
+            background: url('../img/spr2.png') 0px -23px repeat-x;
         }
 
 .product-review-links {
@@ -3452,6 +3487,9 @@ div.product-viewmode {
 .contact-page .form-fields,
 .email-a-friend-page .form-fields {
     margin: 0 0 20px;
+    background: #DEE5F1;
+    padding: 10px;
+    border: 1px solid #D3D7DF;
 }
 
 #contact-info {
@@ -3790,7 +3828,10 @@ div.product-viewmode {
             margin: 0 auto 10px;
             /*border-radius: 50%;*/
             border: 2px solid transparent;
-            background: #fff url('../img/order-progress-1.png') center no-repeat;
+            background: #fff; 
+            background-image: url('../img/spr3.png');
+            background-position: -21px -149px;
+            background-repeat: no-repeat;
         }
 
     .order-progress li.active-step a {
@@ -3799,7 +3840,11 @@ div.product-viewmode {
 
         .order-progress li.active-step a:before {
             border-color: #333;
-            background-image: url('../img/order-progress-2.png');
+            background-image: url('../img/spr3.png');
+            background-position: -21px -205px;
+            background-repeat: no-repeat;
+            width: 36px;
+            height: 36px;
         }
 
     .order-progress li.current-step a {
@@ -3808,7 +3853,11 @@ div.product-viewmode {
 
         .order-progress li.current-step a:before {
             border-color: #c03;
-            background-image: url('../img/order-progress-red.png');
+            background-image: url('../img/spr3.png');
+            background-position: -21px -261px;
+            background-repeat: no-repeat;
+            width: 36px;
+            height: 36px;
         }
 
     .order-progress li.inactive-step a {

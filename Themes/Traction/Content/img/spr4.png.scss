@@ -1,0 +1,81 @@
+﻿/*
+@import this file directly into your existing Scss files to use these mixins
+*/
+@mixin sprite-arrow-down-white() {
+/* You may have to set 'display: block' */
+	width: 43px;
+	height: 12px;
+	background: url('spr4.png') -20px -20px;
+}
+@mixin sprite-arrow() {
+/* You may have to set 'display: block' */
+	width: 4px;
+	height: 7px;
+	background: url('spr4.png') -20px -52px;
+}
+@mixin sprite-arrow-right() {
+/* You may have to set 'display: block' */
+	width: 7px;
+	height: 14px;
+	background: url('spr4.png') -20px -79px;
+}
+@mixin sprite-bullet-right() {
+/* You may have to set 'display: block' */
+	width: 5px;
+	height: 9px;
+	background: url('spr4.png') -20px -113px;
+}
+@mixin sprite-button-close() {
+/* You may have to set 'display: block' */
+	width: 8px;
+	height: 8px;
+	background: url('spr4.png') -20px -142px;
+}
+@mixin sprite-filterGroupToggle() {
+/* You may have to set 'display: block' */
+	width: 35px;
+	height: 35px;
+	background: url('spr4.png') -20px -170px;
+}
+@mixin sprite-minus-1() {
+/* You may have to set 'display: block' */
+	width: 16px;
+	height: 16px;
+	background: url('spr4.png') -20px -225px;
+}
+@mixin sprite-next-horizontal() {
+/* You may have to set 'display: block' */
+	width: 14px;
+	height: 23px;
+	background: url('spr4.png') -20px -261px;
+}
+@mixin sprite-plus-1() {
+/* You may have to set 'display: block' */
+	width: 16px;
+	height: 16px;
+	background: url('spr4.png') -20px -304px;
+}
+@mixin sprite-prev-horizontal() {
+/* You may have to set 'display: block' */
+	width: 14px;
+	height: 23px;
+	background: url('spr4.png') -20px -340px;
+}
+@mixin sprite-arrow-right-1() {
+/* You may have to set 'display: block' */
+	width: 7px;
+	height: 14px;
+	background: url('spr4.png') -20px -383px;
+}
+@mixin sprite-arrow-right-red() {
+/* You may have to set 'display: block' */
+	width: 6px;
+	height: 11px;
+	background: url('spr4.png') -20px -417px;
+}
+@mixin sprite-arrow-right-2() {
+/* You may have to set 'display: block' */
+	width: 6px;
+	height: 11px;
+	background: url('spr4.png') -20px -448px;
+}

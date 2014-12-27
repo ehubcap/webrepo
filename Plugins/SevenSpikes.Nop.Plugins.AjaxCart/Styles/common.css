@@ -24,6 +24,7 @@
     .ajaxCart .k-window-titlebar.k-header {
         margin: 0 !important;
         padding: 10px;
+        border-bottom: 1px solid #999;
         background: #bbb url('images/button1.png') top repeat-x;
     }
 
@@ -40,18 +41,26 @@
                 width: 16px;
                 height: 16px;
                 border: 1px solid #ccc;
-                background: #333 url('images/button-close-hover.png') center no-repeat;
+                background: #333;
+                background-image: url('../../../Themes/Traction/Content/img/spr3.png');
+                background-position: -14px -582px;
+                background-repeat: no-repeat;
                 box-shadow: 0 0 1px #999 inset;
                 font-size: 0;
             }
 
                 .ajaxCart .k-window-titlebar.k-header .k-window-actions a:hover {
-                    background: #fff url('images/button-close.png') center no-repeat;
+                    background: #fff;
+                    background-image: url('../../../Themes/Traction/Content/img/spr3.png');
+                    background-position: -14px -609px;
+                    background-repeat: no-repeat;
                 }
 
 .productAddedToCartWindow, .miniProductDetailsView {
     padding: 15px 10px;
-    background: url('images/separator.png') 0 -1px repeat-x;
+    background-image: url('../../../Themes/Traction/Content/img/spr2.png');
+    background-position: 0px -48.5px;
+    background-repeat: repeat-x;
     color: #555;
     line-height: 18px;
 }
