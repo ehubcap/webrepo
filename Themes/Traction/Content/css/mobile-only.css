@@ -53,11 +53,15 @@
             }
 
     .responsive-nav-wrapper .menu-title {
-        background: url('../img/icon-menu.png') no-repeat center;
+        background-image: url('../img/spr5.png');
+        background-position: center -261px;
+        background-repeat: no-repeat;
     }
 
     .responsive-nav-wrapper .search-wrap {
-        background: url('../img/icon-search.png') no-repeat center;
+        background-image: url('../img/spr5.png');
+        background-position: center -311px;
+        background-repeat: no-repeat;
     }
 
     .responsive-nav-wrapper .shopping-cart-link {
@@ -66,11 +70,15 @@
 
     .responsive-nav-wrapper .filters-button {
         display: none;
-        background: url('../img/icon-filters.png') no-repeat center;
+        background-image: url('../img/spr5.png');
+        background-position: center -358.5px;
+        background-repeat: no-repeat;
     }
 
     .responsive-nav-wrapper .personal-button {
-        background: url('../img/icon-personal.png') no-repeat center;
+        background-image: url('../img/spr5.png');
+        background-position: center -210px;
+        background-repeat: no-repeat;
     }
 
     .responsive-nav-inner > div > span,
@@ -176,7 +184,7 @@
             width: 26px;
             height: 26px;
             margin-top: -13px;
-            background: #eee url('../img/mobile-menu-close.png') center no-repeat;
+            background: #eee url('../img/spr3.png') -14px -543px no-repeat;
         }
 
     .header-logo {
@@ -255,7 +263,10 @@
         cursor: pointer;
         border-left: 1px dotted #ccc;
         border-bottom: 1px dotted #252525;
-        background: #9A9999 url('../img/mobile-arrow-black.png') center no-repeat;
+        background: #9A9999; 
+        background-image: url('../img/spr5.png');
+        background-position: 0px 0px;
+        background-repeat: no-repeat;
     }
 
     .header-menu li:last-child .plus-button {
