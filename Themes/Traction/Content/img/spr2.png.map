@@ -17,7 +17,7 @@
     {
       "name": "/Themes/Traction/Content/img/separator26.png",
       "width": 26,
-      "height": 18,
+      "height": 291,
       "offsetX": 0,
       "offsetY": 46
     },
@@ -26,7 +26,7 @@
       "width": 26,
       "height": 280,
       "offsetX": 0,
-      "offsetY": 64
+      "offsetY": 337
     }
   ]
 }
