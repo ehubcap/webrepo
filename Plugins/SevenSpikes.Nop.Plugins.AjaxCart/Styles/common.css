@@ -57,7 +57,7 @@
                 }
 
 .productAddedToCartWindow, .miniProductDetailsView {
-    padding: 15px 10px;
+    padding: 15px 10px 10px;
     background-image: url('../../../Themes/Traction/Content/img/spr2.png');
     background-position: 0px -49px;
     background-repeat: repeat-x;
