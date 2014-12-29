@@ -47,7 +47,6 @@
     background-color: #333;
     border-color: #333;
 }
-.previous-product a:hover,
 .next-product a:hover {
     background-position: 0px -499px;
 	background-color: #333;
